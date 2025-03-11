@@ -17,9 +17,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.semana-um h3 {
+.semana-um {
+    width: 800px;
+    margin: auto;
+
+    & .titulo {
     display: block;
     text-align: center;
     margin: 10px;
     color: var(--vermelho);
+    }
 }
