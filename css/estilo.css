@@ -27,4 +27,24 @@
     margin: 10px;
     color: var(--vermelho);
     }
+
+    & p {
+        text-align: justify;
+    }
+}
+
+.semana-dois {
+    width: 800px;
+    margin: auto;
+
+    & .titulo {
+    display: block;
+    text-align: center;
+    margin: 10px;
+    color: var(--vermelho);
+    }
+
+    & p {
+        text-align: justify;
+    }
 }
